@@ -1,0 +1,12 @@
+Schemas for database objects used by mongoose to get from MongoDB instance
+
+Bookmark
+-> Title, Author, Link, Directory/Location, Tags, Shares, 
+
+
+Folder
+-> Owner/Author, Location, Directory
+
+List
+-> Owner, Directory
+
