@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/crystal/static/css/main.dea5c0e5.chunk.css",
+    "main.js": "/crystal/static/js/main.33307c0a.chunk.js",
+    "main.js.map": "/crystal/static/js/main.33307c0a.chunk.js.map",
+    "runtime-main.js": "/crystal/static/js/runtime-main.b0fc884d.js",
+    "runtime-main.js.map": "/crystal/static/js/runtime-main.b0fc884d.js.map",
+    "static/js/2.e4adb0d4.chunk.js": "/crystal/static/js/2.e4adb0d4.chunk.js",
+    "static/js/2.e4adb0d4.chunk.js.map": "/crystal/static/js/2.e4adb0d4.chunk.js.map",
+    "index.html": "/crystal/index.html",
+    "precache-manifest.653aff53f2a1640b0c3782a90cafc96d.js": "/crystal/precache-manifest.653aff53f2a1640b0c3782a90cafc96d.js",
+    "service-worker.js": "/crystal/service-worker.js",
+    "static/css/main.dea5c0e5.chunk.css.map": "/crystal/static/css/main.dea5c0e5.chunk.css.map",
+    "static/js/2.e4adb0d4.chunk.js.LICENSE.txt": "/crystal/static/js/2.e4adb0d4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0fc884d.js",
+    "static/js/2.e4adb0d4.chunk.js",
+    "static/css/main.dea5c0e5.chunk.css",
+    "static/js/main.33307c0a.chunk.js"
+  ]
+}
